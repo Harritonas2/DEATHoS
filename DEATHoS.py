@@ -1,6 +1,5 @@
 import socket
 import time
-import colorama
 from colorama import init, Fore
 import os
 
